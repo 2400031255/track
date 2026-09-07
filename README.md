@@ -6,7 +6,7 @@ A premium financial management web application built with React + Vite + Firebas
 
 ## Live App
 
-🔗 https://nikhilkarthik275-cyber.github.io/dhanatracker/
+🔗 https://2400031255.github.io/track/
 
 ## Login
 
@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-Open: http://localhost:5173/dhanatracker/
+Open: http://localhost:5173/track/
 
 ## Deploy
 
